@@ -52,4 +52,4 @@ It processes this information and uses a trained **Random Forest Regressor** to 
 
 ## 💬 Example Interaction
 
-<img width="942" height="617" alt="image" src="https://github.com/user-attachments/assets/a327a172-a5ec-42f1-afc5-057ff4705cc5" />
+<img width="949" height="622" alt="image" src="https://github.com/user-attachments/assets/546c693d-2041-49bd-94e8-cf7cd6d8cfac" />
